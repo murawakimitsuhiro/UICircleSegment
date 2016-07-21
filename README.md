@@ -9,11 +9,13 @@ Swiftでの作成になります。
 storyboardではなくコーディングでUI設計する人向けです。
 
 ## Installation
-ファイル内の```UISegmentViewController```のファイルをプロジェクトにコピーしてください。　　
+ファイル内の```UISegmentViewController```のファイルをプロジェクトにコピーしてください。
+
 ファイルにはUISegmentViewのクラスと個別のボタンのクラスが含まれています。
 
 ## Usage
 以下サンプルです。CircleNumはサークルの数で、segmentViewのValue,およびsValueと同じ数を設定してください。
+
 オプションは少ないので元クラスをカスタムして使っていただけると幸いです。
 ```
 let segmentView = UICircleSegmentView(frame: CGRectMake(50, 200, self.view.frame.width-100, 200),
