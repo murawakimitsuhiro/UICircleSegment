@@ -6,7 +6,7 @@ githubに作成物をあげたことがなかったのでお試しで自作のUI
 UIKitのSegmentViewみたいなUIを丸くして２つの情報を表示できるようにしてみましたが、仕様用途はあまりないです…
 
 ## Demo
-<img alt=”sample_image” src="https://raw.github.com/wiki/murawakimitsuhiro/UICircleSegment/Screen Shot 2016-07-21 at 20.23.29.png”>
+![サンプル画像](https://raw.githubusercontent.com/wiki/murawakimitsuhiro/UICircleSegment/images/sample.png)
 
 ## Requirements
 Swiftでの作成になります。
