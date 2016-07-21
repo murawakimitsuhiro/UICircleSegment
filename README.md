@@ -29,3 +29,6 @@ segmentView.value = ["ツイート", "フォロー", "フォロワー"];
 segmentView.sValue = ["120", "92", "91"];
 segmentView.addTarget(self, action: #selector(self.didChanged));
 ```
+
+## License
+MIT license
