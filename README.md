@@ -3,10 +3,10 @@
 Description
 githubに作成物をあげたことがなかったのでお試しで自作のUIパーツをあげてみました。
 
-UIKitのSegmentViewみたいなUIを丸くして２つの情報を表示できるようにしてみましたが、仕様用途はほぼないです…
+UIKitのSegmentViewみたいなUIを丸くして２つの情報を表示できるようにしてみましたが、仕様用途はあまりないです…
 
 ## Demo
-<img alt=”sample_image” src="https://github.com/murawakimitsuhiro/UICircleSegment/blob/master/Screen%20Shot%202016-07-21%20at%2020.23.29.png” />
+<img alt=”sample_image” src="https://raw.githubusercontent.com/murawakimitsuhiro/UICircleSegment/master/Screen%20Shot%202016-07-21%20at%2020.23.29.png”>
 
 ## Requirements
 Swiftでの作成になります。
