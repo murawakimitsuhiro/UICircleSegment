@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "885CCEB53C75A26117587D1E930D3A72B40F6E95",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "34AA058AED478C9B775416FDFEEEC90EFAB51B6B" : 0,
+    "885CCEB53C75A26117587D1E930D3A72B40F6E95" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E1BEDF7D-1E37-4725-880B-C1E5777E026B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "34AA058AED478C9B775416FDFEEEC90EFAB51B6B" : "..",
+    "885CCEB53C75A26117587D1E930D3A72B40F6E95" : "UICircleSegment\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UICircleSegmentSample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UICircleSegmentSample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/mjk0513\/app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "34AA058AED478C9B775416FDFEEEC90EFAB51B6B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/murawakimitsuhiro\/UICircleSegment.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "885CCEB53C75A26117587D1E930D3A72B40F6E95"
+    }
+  ]
+}
